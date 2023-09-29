@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ]
+  ],
+  "legacy_uid": "5096c609-9ede-47e7-89d1-af697d30e847",
+  "instructors": {
+    "content": [
+      "734cbd71-7a77-6aa2-1623-754918b41ded"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ebfa98a9-aee9-1be6-7864-e63f5261ed65",
+    "website": "4-406-ecologies-of-construction-spring-2007"
+  },
+  "course_title": "Ecologies of Construction",
+  "course_description": "Ecologies of Construction examines the resource requirements for the making and maintenance of the contemporary built environment. This course introduces the field of industrial ecology as a primary source of concepts and methods in the mapping of material and energy expenditures dedicated to construction activities.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.406",
+  "course_image_thumbnail": {
+    "content": "41a34f3c-94ff-385a-cd8b-21e8b313636a",
+    "website": "4-406-ecologies-of-construction-spring-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "baf6f7d7-1893-49f0-ae64-bbddcbeb2d55",
+  "site_short_id": "4.406-spring-2007",
+  "title": "Course Metadata"
+}
